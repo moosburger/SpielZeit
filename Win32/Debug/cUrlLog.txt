@@ -1,0 +1,1110 @@
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+* Could not resolve host: securesmtp.t-online.de
+* Closing connection 0
+curl: (6) Could not resolve host: securesmtp.t-online.de
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+* Could not resolve host: securesmtp.t-online.de
+* Closing connection 0
+curl: (6) Could not resolve host: securesmtp.t-online.de
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465   0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 curl: (35) Unknown SSL protocol error
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0curl: (35) Unknown SSL protocol error
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0curl: (35) Unknown SSL protocol error
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0curl: (35) Unknown SSL protocol error
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 * Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 curl: (35) Unknown SSL protocol error
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0curl: (35) Unknown SSL protocol error
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0curl: (35) Unknown SSL protocol error
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 * Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 curl: (35) Unknown SSL protocol error
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0curl: (35) Unknown SSL protocol error
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+curl: (35) Unknown SSL protocol error
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+curl: (35) Unknown SSL protocol error
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+curl: (35) Unknown SSL protocol error
+Gesendet: 0
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+curl: (35) Unknown SSL protocol error
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+curl: (35) Unknown SSL protocol error
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+curl: (35) Unknown SSL protocol error
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (35) Unknown SSL protocol error
+*   Trying 194.25.134.46...
+* Connected to securesmtp.t-online.de (194.25.134.46) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+curl: (35) Unknown SSL protocol error
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+curl: (35) Unknown SSL protocol error
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+* Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+* Closing connection 0
+curl: (35) Unknown SSL protocol error in connection to securesmtp.t-online.de:465 
+Gesendet: 0
+"E:/Programme/SpielZeit/Win32/Debug/curl.exe" -v --ssl-reqd -k --anyauth --url "smtps://securesmtp.t-online.de:465" --mail-from bene@prexls.de --mail-rcpt gprexl@freenet.de --user bene@prexls.de:2wsxXDR% --upload-file "E:/Programme/SpielZeit/Win32/Debug/Mail.txt"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+*   Trying 194.25.134.110...
+* Connected to securesmtp.t-online.de (194.25.134.110) port 465 (#0)
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* TLSv1.2 (OUT), TLS header, Certificate Status (22):
+} [5 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0

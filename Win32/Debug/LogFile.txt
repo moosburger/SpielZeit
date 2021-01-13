@@ -1,0 +1,624 @@
+
+####################################################################################################################################################
+Programmstart am Donnerstag 10.03.2016 um 06.44
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+neuer Spieltag
+Auslesen der Einstellungen
+RahmenZeit am Donnerstag von 08:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spieltag verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Donnerstag von 08:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Du spielst ausserhalb der erlaubten Zeit (08:00 bis 20:00)!
+Programm 'LogFile.txt - Editor' beendet
+
+Sende Mail
+
+####################################################################################################################################################
+Programmstart am Donnerstag 10.03.2016 um 06.49
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Donnerstag von 08:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Du spielst ausserhalb der erlaubten Zeit (08:00 bis 20:00)!
+Programm 'LogFile.txt - Editor' beendet
+
+Sende Mail
+Startzeit verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Donnerstag von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+gespielte Zeit verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Donnerstag von 06:00 bis 20:00, Spielzeit 2 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 2 min 0 sek
+
+Sende Mail
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 2 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+06:51:58
+
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 1 min 30 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 0
+06:52:28
+
+Nicht gut! Deine Spielzeit ist überschritten.
+In 1 min. wird das Spiel beendet, besser Du speicherst jetzt!
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 1 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 0
+06:52:58
+
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 0 min 30 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 0
+06:53:28
+
+Spielzeit verbraucht, Programm 'LogFile.txt - Editor' beendet
+Sende Mail
+gespielte Zeit verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Donnerstag von 06:00 bis 20:00, Spielzeit 0 min 0 sek
+
+normales beenden
+####################################################################################################################################################
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.26
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+neuer Spieltag
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spieltag verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.29
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.34
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.34
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 45 min 0 sek
+
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.39
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 45 min 0 sek
+
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.40
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.42
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spielzeit um 15 min verlängert.
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 45 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 45 min 0 sek
+
+Sende Mail
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 45 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 45 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+08:43:41
+
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 44 min 30 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+08:44:11
+
+Programm 'LogFile.txt - Editor' beendet.
+verbleibende Spielzeit 44 min 0 sek
+Sende Mail
+gespielte Zeit verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 44 min 0 sek
+
+normales beenden
+####################################################################################################################################################
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.45
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 44 min 0 sek
+
+
+####################################################################################################################################################
+Programmstart am Montag 14.03.2016 um 08.46
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+neuer Spieltag
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spieltag verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 07:00 bis 20:00, Spielzeit 30 min 0 sek
+
+normales beenden
+####################################################################################################################################################
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.27
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte versendet werden!
+
+neuer Spieltag
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spieltag verändert
+Letzte Mail konnte versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'Mail.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'Mail.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 30 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+06:28:37
+
+Programm 'Mail.txt - Editor' beendet.
+verbleibende Spielzeit 29 min 30 sek
+Sende Mail
+Programm 'Mail.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'Mail.txt - Editor' beendet.
+verbleibende Spielzeit 30 min 0 sek
+Sende Mail
+normales beenden
+####################################################################################################################################################
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.34
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 30 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+06:35:38
+
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 29 min 30 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 0
+06:36:08
+
+Programm 'LogFile.txt - Editor' beendet.
+verbleibende Spielzeit 29 min 0 sek
+Sende Mail
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.44
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 30 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+06:45:46
+
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.46
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 30 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+06:47:19
+
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.48
+####################################################################################################################################################
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.54
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 30 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+06:54:42
+
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.54
+####################################################################################################################################################
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.55
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 30 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 1
+06:55:42
+
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 29 min 30 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 0
+06:56:12
+
+Programm 'LogFile.txt - Editor' läuft im Vordergrund.
+verbleibende Spielzeit 29 min 0 sek
+
+Aktivitäten:
+Maus 1
+KeyBoard 0
+Bildschirm 0
+06:56:43
+
+
+####################################################################################################################################################
+Programmstart am Mittwoch 16.03.2016 um 06.57
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Mittwoch von 06:00 bis 20:00, Spielzeit 29 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 29 min 0 sek
+
+Sende Mail
+
+####################################################################################################################################################
+Programmstart am Donnerstag 31.03.2016 um 12.31
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Spieltag verändert
+Programme verändert
+Letzte Mail konnte NICHT versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Donnerstag von 06:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Programm 'LogFile.txt - Editor' läuft
+verbleibende Spielzeit 30 min 0 sek
+
+Sende Mail
+Programm 'LogFile.txt - Editor' beendet.
+verbleibende Spielzeit 30 min 0 sek
+Sende Mail

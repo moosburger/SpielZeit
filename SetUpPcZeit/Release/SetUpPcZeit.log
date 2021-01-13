@@ -1,0 +1,56 @@
+﻿  konvertiere Style darkcss
+  konvertiere Style graycss
+  konvertiere Style jungheinrichcss
+  konvertiere Style coffeecss
+  Rcc'ing ..\Common\Resources\Resources.qrc...
+  Moc'ing cPwd.h...
+  Moc'ing QMainPanel.h...
+  Moc'ing QWinWidget.h...
+  Moc'ing QWinHost.h...
+  cPwd.cpp
+  moc_cPwd.cpp
+  moc_QMainPanel.cpp
+  moc_QWinHost.cpp
+  moc_QWinWidget.cpp
+  main.cpp
+  QMainWindow.cpp
+  QWinHost.cpp
+  QWinWidget.cpp
+  AppWindow.cpp
+  QMainPanel.cpp
+  Code wird generiert...
+  qrc_Resources.cpp
+  SetUpPcZeit.vcxproj -> E:\Programme\!Eigene\SpielZeit\Win32\Release\SetUpPcZeit.exe
+  
+  Kopiere Resourcen
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\icudt53.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\icuin53.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\icuuc53.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  *.vcxproj sollten in E:\Programme\!Eigene\SpielZeit\SetUpPcZeit liegen
+  Verwende E:\Programme\!Eigene\SpielZeit\SetUpPcZeit\SetUpPcZeit.vcxproj
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\Qt5Core.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\Qt5Gui.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\Qt5Widgets.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\Qt5TinyAES.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\bin\Qt5PrintSupport.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: C:\Program Files\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\msvcp120.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: C:\Program Files\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\msvcr120.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\platforms\qminimal.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\platforms
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\platforms\qoffscreen.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\platforms
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\platforms\qwindows.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\platforms
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qdds.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qgif.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qicns.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qico.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qjp2.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qjpeg.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qmng.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qsvg.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qtga.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qtiff.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qwbmp.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\imageformats\qwebp.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\imageformats
+  Datei: D:\Qt\5.4.0\5.4\msvc2013\plugins\printsupport\windowsprintersupport.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\printsupport
+  Datei: E:\Programme\!Eigene\SpielZeit\PcZeit\cUrl\curl.exe ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: E:\Programme\!Eigene\SpielZeit\PcZeit\cUrl\libcurl.dll ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\
+  Datei: E:\Programme\!Eigene\SpielZeit\PcZeit\cUrl\curl-ca-bundle.crt ===> E:\Programme\!Eigene\SpielZeit\Win32\Release\

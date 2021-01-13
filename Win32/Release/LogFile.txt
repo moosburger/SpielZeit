@@ -1,0 +1,21 @@
+
+####################################################################################################################################################
+Programmstart am Montag 29.01.2018 um 09.02
+####################################################################################################################################################
+Startzeit verändert
+Endezeit verändert
+gespielte Zeit verändert
+Spielzeit verändert
+Letzte Mail konnte versendet werden!
+
+neuer Spieltag
+Auslesen der Einstellungen
+RahmenZeit am Montag von 08:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Spieltag verändert
+Letzte Mail konnte versendet werden!
+
+Auslesen der Einstellungen
+RahmenZeit am Montag von 08:00 bis 20:00, Spielzeit 30 min 0 sek
+
+Falsches Passwort

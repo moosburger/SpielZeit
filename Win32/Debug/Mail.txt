@@ -1,0 +1,7 @@
+From: "bene@prexls.de" <bene@prexls.de>
+To: "gprexl@freenet.de" <gprexl@freenet.de>
+Subject: SpielEnde 12.32 0min
+
+
+Spiel LogFile.txt - Editor am 31.03.16 um 12.32 beendet,
+verbleibende Spielzeit 30 min 0 sek

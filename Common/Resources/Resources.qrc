@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>css/coffee.css</file>
+        <file>css/dark.css</file>
+        <file>css/darkorange.css</file>
+        <file>css/default.css</file>
+        <file>css/gray.css</file>
+        <file>css/jungheinrich.css</file>
+        <file>images/SetupApp.ico</file>
+        <file>images/PcZeitApp.ico</file>
+        <file>images/Close.png</file>
+        <file>images/CloseHover.png</file>
+        <file>images/Maximize.png</file>
+        <file>images/MaximizeHover.png</file>
+        <file>images/Minimize.png</file>
+        <file>images/MinimizeHover.png</file>
+        <file>images/Restore.png</file>
+        <file>images/RestoreHover.png</file>
+        <file>images/Darth-Vader-icon.png</file>
+        <file>images/Darth-Mauls-light-sabers-icon.png</file>
+        <file>images/R2-D2-icon.png</file>
+        <file>images/C3PO-icon.png</file>
+        <file>images/Imperial-Star-Destroyer-icon.png</file>
+        <file>images/Millenium-Falcon-02-icon.png</file>
+        <file>images/Boba-Fett-icon.png</file>
+        <file>images/Tie-Fighter-01-icon.png</file>
+        <file>images/PcZeitApp.png</file>
+        <file>images/SetupApp.png</file>
+        <file>images/Printer.png</file>
+    </qresource>
+</RCC>

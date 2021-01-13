@@ -1,0 +1,8 @@
+﻿  konvertiere Style darkcss
+  konvertiere Style graycss
+  konvertiere Style jungheinrichcss
+  konvertiere Style coffeecss
+  Rcc'ing ..\Common\Resources\Resources.qrc...
+  AppWindow.cpp
+  qrc_Resources.cpp
+  SetUpPcZeit.vcxproj -> E:\Programme\SpielZeit\Win32\Debug\SetUpPcZeit.exe

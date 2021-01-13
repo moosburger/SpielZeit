@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Dateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Dateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Form Dateien">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Dateien">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generierte Dateien">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generierte Dateien\Debug">
+      <UniqueIdentifier>{c6521fd3-b721-4c64-b7ea-8a45e73b7c28}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generierte Dateien\Release">
+      <UniqueIdentifier>{ade467d1-8c74-4b4b-a097-47ebd5c75119}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Resource Dateien\images">
+      <UniqueIdentifier>{a12a8a4b-eceb-4959-b0b4-56c4166a04a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Dateien\css">
+      <UniqueIdentifier>{25a97226-a50b-4c40-a072-6cf176873ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cUrl">
+      <UniqueIdentifier>{35e27b25-f4fd-4d81-9837-3fac19026452}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\main.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\cWinApiStuff.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_cWinApiStuff.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_cWinApiStuff.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\cPcZeit.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_cPcZeit.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_cPcZeit.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\cLogFile.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_cLogFile.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_cLogFile.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_Resources.cpp">
+      <Filter>Generierte Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_cPwd.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_cPwd.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Source\cPwd.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\cNativeEvent.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_cNativeEvent.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_cNativeEvent.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\cSendMail.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_cSendMail.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_cSendMail.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Source\header\cWinApiStuff.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Source\header\cPcZeit.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Source\header\cLogFile.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Common\Resources\Resources.qrc">
+      <Filter>Resource Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Common\Source\header\cPwd.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Source\header\cNativeEvent.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GeneratedFiles\Debug\main.moc">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Source\header\cSendMail.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Common\Resources\images\Close.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\CloseHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Maximize.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\MaximizeHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Minimize.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\MinimizeHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\PcZeitApp.ico">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Restore.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\RestoreHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\SetupApp.ico">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Darth-Vader-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Darth-Mauls-light-sabers-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\R2-D2-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\C3PO-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Imperial-Star-Destroyer-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Millenium-Falcon-02-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Boba-Fett-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Tie-Fighter-01-icon.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\PcZeitApp.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\SetupApp.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Common\Resources\css\coffee.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\dark.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\darkorange.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\default.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\gray.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\jungheinrich.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="cUrl\curl.exe">
+      <Filter>cUrl</Filter>
+    </None>
+    <None Include="cUrl\curl-ca-bundle.crt">
+      <Filter>cUrl</Filter>
+    </None>
+    <None Include="cUrl\libcurl.dll">
+      <Filter>cUrl</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources\PcZeit.rc">
+      <Filter>Resource Dateien</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Common\Version.h">
+      <Filter>Header Dateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

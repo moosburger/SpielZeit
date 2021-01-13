@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Dateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Dateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Resource Dateien">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generierte Dateien">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generierte Dateien\Debug">
+      <UniqueIdentifier>{0c566e83-d6d8-46d5-8ec4-e6895671a43e}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generierte Dateien\Release">
+      <UniqueIdentifier>{e6557fed-cf71-4426-bc2a-88f6b99feafd}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Resource Dateien\css">
+      <UniqueIdentifier>{6e4ea9b1-6fb0-451a-8fd8-fc6ce76d700b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Dateien\images">
+      <UniqueIdentifier>{25859a1b-9113-44ba-9ec1-587253aa8046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Dateien\MainBorderless">
+      <UniqueIdentifier>{ff12224f-6f2c-41f9-80ad-cd9b6a5e3285}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Dateien\MainBorderless">
+      <UniqueIdentifier>{67f6eb59-702a-4b42-93f5-2816406c6a34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GeneratedFiles\Debug\moc_QWinHost.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_QWinHost.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_QWinWidget.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_QWinWidget.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="MainSource\main.cpp">
+      <Filter>Source Dateien\MainBorderless</Filter>
+    </ClCompile>
+    <ClCompile Include="MainSource\QWinHost.cpp">
+      <Filter>Source Dateien\MainBorderless</Filter>
+    </ClCompile>
+    <ClCompile Include="MainSource\QMainWindow.cpp">
+      <Filter>Source Dateien\MainBorderless</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\QMainPanel.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_QMainPanel.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_QMainPanel.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="MainSource\QWinWidget.cpp">
+      <Filter>Source Dateien\MainBorderless</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AppWindow.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_Resources.cpp">
+      <Filter>Generierte Dateien</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_cPwd.cpp">
+      <Filter>Generierte Dateien\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_cPwd.cpp">
+      <Filter>Generierte Dateien\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Source\cPwd.cpp">
+      <Filter>Source Dateien</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="MainSource\header\QWinHost.h">
+      <Filter>Header Dateien\MainBorderless</Filter>
+    </CustomBuild>
+    <CustomBuild Include="MainSource\header\QWinWidget.h">
+      <Filter>Header Dateien\MainBorderless</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Source\header\QMainPanel.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Common\Resources\Resources.qrc">
+      <Filter>Resource Dateien</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Common\Source\header\cPwd.h">
+      <Filter>Header Dateien</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Common\Resources\images\Close.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\CloseHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Maximize.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\MaximizeHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Minimize.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\MinimizeHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\PcZeitApp.ico">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Restore.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\RestoreHover.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\SetupApp.ico">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+    <Image Include="..\Common\Resources\images\Printer.png">
+      <Filter>Resource Dateien\images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainSource\header\QMainWindow.h">
+      <Filter>Header Dateien\MainBorderless</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Version.h">
+      <Filter>Header Dateien</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Common\Resources\css\coffee.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\dark.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\darkorange.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\default.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\gray.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+    <None Include="..\Common\Resources\css\jungheinrich.css">
+      <Filter>Resource Dateien\css</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resources\SetUpPcZeit.rc">
+      <Filter>Resource Dateien</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
